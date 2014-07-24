@@ -1,0 +1,6 @@
+D:\MyProjects\TestFilesAndWeb\TestFilesAndWeb\bin\Debug\TestFilesAndWeb.exe.config
+D:\MyProjects\TestFilesAndWeb\TestFilesAndWeb\obj\Debug\TestFilesAndWeb.csprojResolveAssemblyReference.cache
+D:\MyProjects\TestFilesAndWeb\TestFilesAndWeb\bin\Debug\TestFilesAndWeb.exe
+D:\MyProjects\TestFilesAndWeb\TestFilesAndWeb\bin\Debug\TestFilesAndWeb.pdb
+D:\MyProjects\TestFilesAndWeb\TestFilesAndWeb\obj\Debug\TestFilesAndWeb.exe
+D:\MyProjects\TestFilesAndWeb\TestFilesAndWeb\obj\Debug\TestFilesAndWeb.pdb
